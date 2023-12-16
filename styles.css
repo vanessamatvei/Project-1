@@ -1,5 +1,5 @@
 nav-bar {
- background-image: url('https://cdn.mos.cms.futurecdn.net/aFB2p4XLvtZNYXPLnniNdQ-1200-80.jpg'); /* Replace 'background-image.jpg' with your image file */
+ background-image: url('https://cdn.mos.cms.futurecdn.net/aFB2p4XLvtZNYXPLnniNdQ-1200-80.jpg'); 
  background-size: cover;
  background-position: center;
  background-attachment: fixed;
@@ -30,3 +30,8 @@ nav-bar {
 .subscribe-form input[type="submit"]:hover {
  background-color: #444;
 }
+h1, h2, h3, h4, h5, h6 {
+ font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+ color: white;
+}
+ 
