@@ -1,4 +1,4 @@
-#main-page {
+#img {
  background-image: url('https://cdn.mos.cms.futurecdn.net/aFB2p4XLvtZNYXPLnniNdQ-1200-80.jpg'); 
  background-size: cover;
  background-position: center;
@@ -22,7 +22,7 @@
  padding: 10px;
  border-radius: 5px;
  border: none;
- background-color: #333;
+ background-color: #80CAE2;
  cursor: pointer;
 }
 .subscribe-form input[type="submit"]:hover {
@@ -31,5 +31,15 @@
 h1, h2, h3, h4, h5, h6 {
  font-family: Helvetica;
  color: white;
+ color: #46519B;
 }
+footer {
+ background-color: #46519B;
+}
+
+
+
+
+
+ 
  
