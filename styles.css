@@ -1,7 +1,32 @@
-
 nav-bar {
  background-image: url('https://cdn.mos.cms.futurecdn.net/aFB2p4XLvtZNYXPLnniNdQ-1200-80.jpg'); /* Replace 'background-image.jpg' with your image file */
  background-size: cover;
  background-position: center;
  background-attachment: fixed;
+}
+.subscribe-form {
+ text-align: center;
+ margin: 50px auto;
+ width: 80%;
+ max-width: 400px;
+}
+.subscribe-form input[type="email"] {
+ width: 100%;
+ padding: 10px;
+ margin-bottom: 10px;
+ border-radius: 5px;
+ border: 1px solid #ccc;
+ box-sizing: border-box;
+}
+.subscribe-form input[type="submit"] {
+ width: 100%;
+ padding: 10px;
+ border-radius: 5px;
+ border: none;
+ background-color: #333;
+ color: #fff;
+ cursor: pointer;
+}
+.subscribe-form input[type="submit"]:hover {
+ background-color: #444;
 }
