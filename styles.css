@@ -1,6 +1,7 @@
 
-{     background-image: url('background-image.jpg'); /* Replace 'background-image.jpg' with your image file */
+nav-bar {
+ background-image: url('https://cdn.mos.cms.futurecdn.net/aFB2p4XLvtZNYXPLnniNdQ-1200-80.jpg'); /* Replace 'background-image.jpg' with your image file */
  background-size: cover;
-            background-position: center;
-            background-attachment: fixed;
+ background-position: center;
+ background-attachment: fixed;
 }
