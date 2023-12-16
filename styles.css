@@ -1,4 +1,4 @@
-nav-bar {
+body {
  background-image: url('https://cdn.mos.cms.futurecdn.net/aFB2p4XLvtZNYXPLnniNdQ-1200-80.jpg'); 
  background-size: cover;
  background-position: center;
@@ -16,7 +16,6 @@ nav-bar {
  margin-bottom: 10px;
  border-radius: 5px;
  border: 1px solid #ccc;
- box-sizing: border-box;
 }
 .subscribe-form input[type="submit"] {
  width: 100%;
@@ -24,7 +23,6 @@ nav-bar {
  border-radius: 5px;
  border: none;
  background-color: #333;
- color: #fff;
  cursor: pointer;
 }
 .subscribe-form input[type="submit"]:hover {
